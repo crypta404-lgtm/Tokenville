@@ -1,0 +1,5 @@
+{
+  "name": "tokenville",
+  "owner": { "name": "CrYpta404" },
+  "plugins": [{ "name": "tokenville", "source": "./", "description": "Your Claude Code subagents as a pixel-art office, automatic power levels, savings modes and a live Token Meter" }]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tokenville",
+  "version": "0.2.0",
+  "description": "Tokenville: your Claude Code subagents as a pixel-art office, automatic power levels, savings modes and a live Token Meter",
+  "author": { "name": "CrYpta404" },
+  "homepage": "https://github.com/crypta404-lgtm/tokenville",
+  "repository": "https://github.com/crypta404-lgtm/tokenville",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "keywords": ["subagents", "pixel-art", "tokens", "dashboard", "cost"],
+  "types": "./types/index.d.ts"
+}
